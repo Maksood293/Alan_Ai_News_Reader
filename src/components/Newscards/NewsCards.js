@@ -1,6 +1,6 @@
 import React from "react";
 import NewsCard from "../NewsCard/NewsCard";
-import { Grid, Box, Grow, Typography } from "@material-ui/core";
+import { Grid, Grow, Typography } from "@material-ui/core";
 import useStyles from "./styles";
 
 const infoCards = [
